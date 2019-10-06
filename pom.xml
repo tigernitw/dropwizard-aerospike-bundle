@@ -12,6 +12,14 @@
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
+
+    <scm>
+        <connection>scm:git:https://github.com/tigernitw/dropwizard-aerospike-bundle.git</connection>
+        <developerConnection>scm:git:https://github.com/tigernitw/dropwizard-aerospike-bundle.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>https://github.com/tigernitw/dropwizard-aerospike-bundle.git</url>
+    </scm>
+
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
